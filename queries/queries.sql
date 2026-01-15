@@ -185,7 +185,7 @@ SELECT *
             FROM fabricante
             WHERE nombre = 'Lenovo'
         )
-    ORDER BY precio ASC
+    ORDER BY precio DESC
     LIMIT 1);
 
 -- 38. Llista el nom del producte més car del fabricant Lenovo.
