@@ -1,4 +1,4 @@
-# 🗄️ 2.1_MongoDB_Queries
+# 🗄️ 2.2_MySQL_Queries
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
@@ -47,7 +47,7 @@ The exercises are designed to challenge logical thinking through:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/FedEx8525/2.1-MySQL_Database.git](https://github.com/FedEx8525/2.1-MySQL_Database.git)
+    git clone [https://github.com/FedEx8525/2.2_MySQL_Queries.git](https://github.com/FedEx8525/2.2_MySQL_Queries.git)
     ```
 
 2.  **Import the Databases:**
